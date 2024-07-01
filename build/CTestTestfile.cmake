@@ -1,0 +1,11 @@
+# CMake generated Testfile for 
+# Source directory: /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio
+# Build directory: /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_msckf_vio_gtest_test_feature_init "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/noetic/share/catkin/cmake/test/run_tests.py" "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/test_results/msckf_vio/gtest-test_feature_init.xml" "--return-code" "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/lib/msckf_vio/test_feature_init --gtest_output=xml:/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/test_results/msckf_vio/gtest-test_feature_init.xml")
+set_tests_properties(_ctest_msckf_vio_gtest_test_feature_init PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/noetic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/noetic/share/catkin/cmake/test/gtest.cmake;98;catkin_run_tests_target;/opt/ros/noetic/share/catkin/cmake/test/gtest.cmake;37;_catkin_add_google_test;/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/CMakeLists.txt;173;catkin_add_gtest;/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/CMakeLists.txt;0;")
+add_test(_ctest_msckf_vio_gtest_test_math_utils "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/noetic/share/catkin/cmake/test/run_tests.py" "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/test_results/msckf_vio/gtest-test_math_utils.xml" "--return-code" "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/lib/msckf_vio/test_math_utils --gtest_output=xml:/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/test_results/msckf_vio/gtest-test_math_utils.xml")
+set_tests_properties(_ctest_msckf_vio_gtest_test_math_utils PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/noetic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/noetic/share/catkin/cmake/test/gtest.cmake;98;catkin_run_tests_target;/opt/ros/noetic/share/catkin/cmake/test/gtest.cmake;37;_catkin_add_google_test;/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/CMakeLists.txt;185;catkin_add_gtest;/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/CMakeLists.txt;0;")
+subdirs("gtest")

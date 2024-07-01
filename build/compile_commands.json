@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -Dmsckf_vio_nodelet_EXPORTS -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/local/include/opencv4 -I/usr/include/suitesparse -g -fPIC -std=c++14 -o CMakeFiles/msckf_vio_nodelet.dir/src/msckf_vio_nodelet.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/msckf_vio_nodelet.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/msckf_vio_nodelet.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -Dimage_processor_nodelet_EXPORTS -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/suitesparse -isystem /usr/local/include/opencv4 -g -fPIC -std=c++14 -o CMakeFiles/image_processor_nodelet.dir/src/image_processor_nodelet.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/image_processor_nodelet.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/image_processor_nodelet.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -Dmsckf_vio_EXPORTS -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/local/include/opencv4 -I/usr/include/suitesparse -g -fPIC -std=c++14 -o CMakeFiles/msckf_vio.dir/src/msckf_vio.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/msckf_vio.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/msckf_vio.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -Dmsckf_vio_EXPORTS -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/local/include/opencv4 -I/usr/include/suitesparse -g -fPIC -std=c++14 -o CMakeFiles/msckf_vio.dir/src/utils.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/utils.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/utils.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/local/include/opencv4 -I/usr/include/suitesparse -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -g -std=c++14 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_math_utils.dir/test/math_utils_test.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/test/math_utils_test.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/test/math_utils_test.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DKDTREE_EXPORTS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/local/include/opencv4 -I/usr/include/suitesparse -g -fPIC -std=c++14 -o CMakeFiles/KDTREE.dir/src/ikd_Tree.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/ikd_Tree.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/ikd_Tree.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/local/include/opencv4 -I/usr/include/suitesparse -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -g -std=c++14 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_feature_init.dir/test/feature_initialization_test.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/test/feature_initialization_test.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/test/feature_initialization_test.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -Dimage_processor_EXPORTS -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/suitesparse -isystem /usr/local/include/opencv4 -g -fPIC -std=c++14 -o CMakeFiles/image_processor.dir/src/image_processor.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/image_processor.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/image_processor.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"msckf_vio\\\" -Dimage_processor_EXPORTS -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build/devel/include -I/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/opencv4 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/suitesparse -isystem /usr/local/include/opencv4 -g -fPIC -std=c++14 -o CMakeFiles/image_processor.dir/src/utils.cpp.o -c /home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/utils.cpp",
+  "file": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/src/utils.cpp"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -g -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -DGTEST_HAS_PTHREAD=1 -std=c++14 -o gtest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -g -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -DGTEST_HAS_PTHREAD=1 -std=c++14 -o gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -g -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -DGTEST_HAS_PTHREAD=1 -std=c++14 -o gtest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/g/debug_ws/src/MSCKF_VIO_MONO/msckf_vio/build",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -g -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -std=c++14 -o gtest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

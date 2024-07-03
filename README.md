@@ -3,18 +3,19 @@
 
 
 # MSCKF-modified
+version 1.0 (June/25th)
 
 Modifications
 
-    1.Monocular Camera Adaptation:
-        Modified MSCKF-S to operate with monocular cameras.
+1.Monocular Camera Adaptation:
+Modified MSCKF-S to operate with monocular cameras.
 
-    2.Point Cloud Processing:
-        Designed Kalman prediction and update processes for point cloud data.
+2.Point Cloud Processing:
+Designed Kalman prediction and update processes for point cloud data.
 
-    3.VIO and LIO Status:
-        VIO (Visual-Inertial Odometry) is operational.
-        LIO (LiDAR-Inertial Odometry) is currently under debugging.
+3.VIO and LIO Status:
+VIO (Visual-Inertial Odometry) is operational.
+LIO (LiDAR-Inertial Odometry) is currently under debugging.
 
 
 

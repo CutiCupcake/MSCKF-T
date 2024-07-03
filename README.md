@@ -2,8 +2,8 @@
 
 
 
-# MSCKF-modified
-version 1.0 (June/25th)
+# MSCKF-fusion (version 1.0 June/25th)
+
 
 Modifications
 
